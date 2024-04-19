@@ -173,7 +173,7 @@ footer p a{
     margin-top: 20px;
 }
 .entete{
-    margin-bottom: 20px;
+    margin-top: 20px;
 }
 @media screen and (max-width:800px) {
     .navbar{
